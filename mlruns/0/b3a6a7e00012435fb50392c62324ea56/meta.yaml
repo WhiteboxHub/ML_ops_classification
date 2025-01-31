@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/innovapathinc/Desktop/Ml_ops_wallmart_sales/mlruns/0/b3a6a7e00012435fb50392c62324ea56/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3a6a7e00012435fb50392c62324ea56
+run_name: delightful-bat-113
+run_uuid: b3a6a7e00012435fb50392c62324ea56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738354861383
+status: 1
+tags: []
+user_id: innovapathinc

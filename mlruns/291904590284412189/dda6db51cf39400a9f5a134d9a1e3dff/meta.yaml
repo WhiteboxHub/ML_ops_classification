@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/innovapathinc/Desktop/Ml_ops_wallmart_sales/mlruns/291904590284412189/dda6db51cf39400a9f5a134d9a1e3dff/artifacts
+end_time: 1738352769341
+entry_point_name: ''
+experiment_id: '291904590284412189'
+lifecycle_stage: active
+run_id: dda6db51cf39400a9f5a134d9a1e3dff
+run_name: bald-shrew-770
+run_uuid: dda6db51cf39400a9f5a134d9a1e3dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738352766250
+status: 3
+tags: []
+user_id: innovapathinc

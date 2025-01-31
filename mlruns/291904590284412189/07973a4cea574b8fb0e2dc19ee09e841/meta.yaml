@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/innovapathinc/Desktop/Ml_ops_wallmart_sales/mlruns/291904590284412189/07973a4cea574b8fb0e2dc19ee09e841/artifacts
+end_time: 1738353454387
+entry_point_name: ''
+experiment_id: '291904590284412189'
+lifecycle_stage: active
+run_id: 07973a4cea574b8fb0e2dc19ee09e841
+run_name: unruly-seal-441
+run_uuid: 07973a4cea574b8fb0e2dc19ee09e841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738353451673
+status: 3
+tags: []
+user_id: innovapathinc
